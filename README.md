@@ -1,2 +1,2 @@
-# newRepo
-kkkkkkkkkk
+# Learning
+Learn With Trying
